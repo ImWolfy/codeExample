@@ -1,0 +1,8 @@
+{
+  "BasePath": "C:\\medhelp\\files\\",
+  "AutoCallerAPIIPAddress": "192.168.0.1",
+  "AutoCallerAPIPort": "7654",
+  "AutoCallerDatabaseName": "databasename",
+  "AutoCallerDatabaseIPAddress": "192.168.0.2",
+  "AutoCallerDatabasePort": "8765"
+}
